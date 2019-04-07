@@ -1,0 +1,6 @@
+[submodule "securityrobot"]
+	path = securityrobot
+	url = git@github.com:Seputaes/securityrobot.git
+[submodule "twitchapi"]
+	path = twitchapi
+	url = git@github.com:Seputaes/twitchapi.git
