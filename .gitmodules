@@ -4,3 +4,6 @@
 [submodule "twitchapi"]
 	path = twitchapi
 	url = git@github.com:Seputaes/twitchapi.git
+[submodule "build_config"]
+	path = build_config
+	url = git@github.com:Seputaes/sep-java-build-config.git
