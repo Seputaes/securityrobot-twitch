@@ -1,0 +1,6 @@
+rootProject.name = 'securityrobot-twitch'
+
+include 'build_config'
+include 'securityrobot'
+include 'twitchapi'
+
